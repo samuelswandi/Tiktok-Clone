@@ -26,6 +26,6 @@ Your app is ready to be deployed!
 
 ### `deployment`
 - i used firebase hosting for deployment
-- use node js for backend
+- use node js for backend, deployed backend on heroku
 - mongoDb for database
 - react for frontend
